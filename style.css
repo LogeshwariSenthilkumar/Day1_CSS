@@ -1,0 +1,19 @@
+h1{
+            color: blue;
+            background-color: black;
+        }
+        h2{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: larger;
+            font-style: italic;
+        }
+        p{
+            word-spacing: 5px;
+        }
+        h3{
+            text-decoration-line: overline;
+            text-decoration-style: dashed;
+            text-decoration-color: blue;
+
+            text-decoration: underline double red;
+        }
